@@ -34,4 +34,12 @@
 33 history
 34 history > Fatoumata_HAIDARA.txt
 35 nano Fatoumata_HAIDARA.txt
-36 
+36 ls
+37 pwd
+38 git status
+39 git add .
+40 git commit -m "commit3"
+41 git remote -v
+42 git push origin master
+43 ls
+44 git status
