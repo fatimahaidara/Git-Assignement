@@ -1,0 +1,37 @@
+0 mkdir AMMI-git
+1 cd AMMI-git
+2 mkdir Fatoumata_HAIDARA
+3 cd ..
+4 mkdir AMMI-first
+5 ls
+6 mv AMMI-first /Users/fatoumatahaidara/AMMI-git
+7 cd AMMI-git
+8 ls 
+9 touch identity.txt
+10 nano identity.txt
+11 git init 
+12 git status
+13 git config --global user.name fatimahaidara
+14 git config --global user.email fhaidara@aimsammi.org
+15 git add .
+16 git commit -m "first commit"
+17 git remote add origin https://github.com/fatimahaidara/Git-Assignement.git
+18 git remote -v
+19 git push origin master 
+20 ls
+21 cd AMMI-git
+22 ls
+23 nano identify.txt
+24 nano identify.txt
+25 git status
+26 git config --global user.name
+27 git config --global user.email
+28 ls
+29 git add .
+30 git commit -m "second commit"
+31 git remote -v
+32 git push origin master
+33 history
+34 history > Fatoumata_HAIDARA.txt
+35 nano Fatoumata_HAIDARA.txt
+36 
